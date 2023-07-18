@@ -1,0 +1,7 @@
+#gameBoard{
+    display: flex;
+    width: 100px;
+}
+.trio{
+    flex: auto;
+}
